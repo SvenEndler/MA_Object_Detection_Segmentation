@@ -1,4 +1,3 @@
-# MA_Object_Detection_Segmentation
 # MA: Automatisierte Erkennung und Objektsegmentierung in Karten
 Dieses GitHub Repository enthält den Code und die Ergebnisse zur Masterarbeit von Sven Endler (924786).  
 Das System kombiniert etablierte Objekterkennungsverfahren mit einem Segmentierungsmodell.  
